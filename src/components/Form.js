@@ -13,6 +13,3 @@ const Form=(props)=>{
 };
 
 export default Form;
-
-// 225af1cab6d04ff0835185655212110
-
